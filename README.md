@@ -16,9 +16,9 @@ axios
 2. npx hardhat node
 3. npm run dev
 4. npx hardhat run scripts/deploy.js --network mumbai
-5. Connect your Metamask with your localhost 
+5. Connect your Metamask with your mumbai testnet
 
-##Add this to metamask account and connect it to localhost
+##Add this to metamask account and connect it to your website
 
 configuration of mumbai testnet 
 
