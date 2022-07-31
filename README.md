@@ -1,6 +1,6 @@
 ## Getting Started
 
-1. git clone NFT-MARKETPLACE
+1. git clone nft-warranty-marketplace
 2. npm install ethers hardhat @nomiclabs/hardhat-waffle \
 ethereum-waffle chai @nomiclabs/hardhat-ethers \
 web3modal @openzeppelin/contracts ipfs-http-client \
